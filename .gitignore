@@ -1,3 +1,14 @@
+# OS generated files
+.DS_Store
+
+# Local-only folders
+working-files/
+project-guidelines-and-templates/
+local-data/
+
+# Local vs code settings
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
