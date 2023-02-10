@@ -3,7 +3,7 @@
 
 # Local-only folders
 working-files/
-project-guidelines-and-templates/
+# project-guidelines-and-templates/
 local-data/
 
 # Local vs code settings
