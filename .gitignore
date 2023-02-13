@@ -139,3 +139,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 james-eda-scratchpad.ipynb
+data/Report_Card_Spring_Assessment_Data_from_2014-15_to_2021-22.csv
