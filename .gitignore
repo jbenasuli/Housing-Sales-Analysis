@@ -1,10 +1,11 @@
 # OS generated files
 .DS_Store
-
+project-guidelines-and-templates
 # Local-only folders
 working-files/
 data/archive
 notebooks/archive
+project-guidelines-and-templates/
 
 # project-guidelines-and-templates/
 local-data/
