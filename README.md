@@ -36,7 +36,7 @@ Convert string columns to boolean (yr_renovated) and convert ordinal/nominal col
 Drop null values, drop clear data entry errors (i.e. house that is 3 square feet), drop unneeded column (ID and address), date column to datetime format. 
 
 Log scale the square footage columns and the target price variables. See distributions: 
-![price-distribution](imgs/Distribution of Sale Price.png)
+![price-distribution](<imgs/Distribution of Sale Price.png>)
 ![price-distribution](imgs/Distribution of Log Sale Price.png)
 ![price-distribution](imgs/Distribution of Square Footage.png)
 ![price-distribution](imgs/Distribution of Log Sq Footage.png)
