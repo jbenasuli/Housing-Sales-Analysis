@@ -92,8 +92,12 @@ Home appraisals are significantly impacted by the size, status of home health an
 Next Steps:
 
 Looking into localized crime data 
+
 Looking at home data beyond years 2021 - 2022
+
 Adding visualizations for final model expected vs. actual
+
 Troubleshooting the log un-transform
+
 Looking at distinction in statistical significance for homes > 10 miles away from our key landmarks
 
