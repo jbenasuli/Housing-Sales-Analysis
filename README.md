@@ -54,7 +54,6 @@ Onehot encoded dummy variables for nominal categories: sewer, heat and ZIP.
 Our Baseline model (single regression model of square footage of living against sale price) 
 
 R-Squared: 0.3882
-*fill in more 
 
 Model #2: Looking at the relationship between all original numeric features vs. price including education data and distance to key landmarks
 
