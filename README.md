@@ -21,8 +21,11 @@ Location data (latitude and longitude) for Amazon, University of Washington, and
 
 Our Baseline model ran a single linear regression model of square footage of living against sale price because sqft_living had the highest correlation coefficient for predicting price of home.
 
+![price-distribution](imgs/Square Footage vs Price.png)
 
 Data Cleaning & Preprocessing:
+
+![price-distribution](imgs/Feature Distribution Pre Transformation.png)
 
 Filtered out rows <$250k and >$15M for sale price. 
 
@@ -33,6 +36,10 @@ Convert string columns to boolean (yr_renovated) and convert ordinal/nominal col
 Drop null values, drop clear data entry errors (i.e. house that is 3 square feet), drop unneeded column (ID and address), date column to datetime format. 
 
 Log scale the square footage columns and the target price variables. See distributions: 
+![price-distribution](imgs/Distribution of Sale Price.png)
+![price-distribution](imgs/Distribution of Log Sale Price.png)
+![price-distribution](imgs/Distribution of Square Footage.png)
+![price-distribution](imgs/Distribution of Log Sq Footage.png)
 
 Join education table by shared ZIP per distrcit code to map percent_met_standard (metric of education) to each row in data set.
 
